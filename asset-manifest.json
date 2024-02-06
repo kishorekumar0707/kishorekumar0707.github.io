@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23b5cfcb.css",
+    "main.js": "/static/js/main.eb32a0e7.js",
+    "static/js/787.d8324052.chunk.js": "/static/js/787.d8324052.chunk.js",
+    "static/media/ifoto-ai_1706166538750.png": "/static/media/ifoto-ai_1706166538750.308b27fca03648abb09c.png",
+    "index.html": "/index.html",
+    "main.23b5cfcb.css.map": "/static/css/main.23b5cfcb.css.map",
+    "main.eb32a0e7.js.map": "/static/js/main.eb32a0e7.js.map",
+    "787.d8324052.chunk.js.map": "/static/js/787.d8324052.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b5cfcb.css",
+    "static/js/main.eb32a0e7.js"
+  ]
+}
